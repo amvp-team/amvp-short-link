@@ -1,0 +1,19 @@
+{
+  "name": "amvp-short-link",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amvp-team/amvp-short-link.git"
+  },
+  "author": "takahatashun, hachiman132, HSGamer",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/amvp-team/amvp-short-link/issues"
+  },
+  "homepage": "https://github.com/amvp-team/amvp-short-link#readme"
+}
